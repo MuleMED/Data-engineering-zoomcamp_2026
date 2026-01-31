@@ -71,7 +71,7 @@ Also learned:
 
 ## 📝 Homework
 
-My homework solutions for the Module 1 homework assignment is in the [HomeWork folder](./HomeWork/module1_homework).
+My homework solutions for the Module 1 homework assignment is in the [HomeWork folder](../HomeWork/module1_homework).
 
 The homework tested my understanding of:
 - Docker and containers
